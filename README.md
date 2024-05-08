@@ -4,7 +4,7 @@ This project showcases a simple resume template built using Vite and a React fra
 
 The website itself serves as the author's resume, deployed as a Git page for easy access and sharing. This modern approach leverages the speed and efficiency of Vite while utilizing the power and flexibility of React.
 
-### Prerequisits
+## Prerequisits
 Node.js and npm.
 
 Download and install Node.js from the official website (https://nodejs.org/) to get npm, the package manager.
